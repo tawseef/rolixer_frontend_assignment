@@ -1,0 +1,22 @@
+.topTitle{
+    padding-top: 10px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.container{
+    background-color: grey;
+}
+
+.buttons{
+    font-size: large;
+}
+
+.lables{
+    font-size: large;
+}
+
+select{
+    font-size: large;
+}

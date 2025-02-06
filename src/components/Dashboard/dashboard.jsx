@@ -19,7 +19,7 @@ function Dashboard() {
   }, [data, selectedMonth, dataForSelectedMonth]);
 
   const callApi = async () => {
-    const res = await axios.get("http://localhost:8082/v1/getall");
+    const res = await axios.get("https://rolixer-l6mh.onrender.com/v1/getall");
     if (res.status === 200) setData(res.data);
   };
 

@@ -19,4 +19,14 @@
 
 select{
     font-size: large;
+    margin: 30px;
+}
+
+
+.tableDiv{
+    margin: 50px;
+}
+
+.buttonDiv{
+    margin: 30px;
 }
